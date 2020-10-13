@@ -1,0 +1,222 @@
+,ROAD,COUNTY,DEMARCATION,ALLOWED_SPEED,TERRAIN,SPECIAL_FUNCTION,TRACK_TRAJECTORIES,AREA_CLASSIFICATION,ROAD_OWNERSHIP
+0,LV-3021,Noguera,Lleida,Not specified,Plane,No special function,Double way,Road,Provincial
+1,GIP-5101,Alt Emporda,Girona,50.0,Disassembled,No special function,Double way,Road,Provincial
+2,C-1413A,Bergueda,Barcelona,Not specified,Not specified,No special function,Double way,Road,Autonomous
+3,CR19,Garrotxa,Girona,100.0,Plane,No special function,Double way,Road,Others
+4,TV-3316,Montsia,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+5,CR08,Barcelones,Barcelona,60.0,Not specified,Crossing,Double way,Road,Autonomous
+6,TV-3541,Baix Ebre,Tarragona,100.0,Disassembled,No special function,Double way,Road,Provincial
+7,GIV-5235,Garrotxa,Girona,Not specified,Disassembled,No special function,Double way,Road,Provincial
+8,GIP-6021,Alt Emporda,Girona,30.0,Plane,No special function,Double way,Road,Provincial
+9,TV-3223,Priorat,Tarragona,Not specified,Disassembled,No special function,Double way,Road,Autonomous
+10,GIV-5241,Garrotxa,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+11,GIV-5043,Alt Emporda,Girona,100.0,Embankment,No special function,Double way,Road,Provincial
+12,T-224,Conca de Barbera,Tarragona,100.0,Disassembled,No special function,Double way,Road,Provincial
+13,T-344,Montsia,Tarragona,100.0,Mixed,No special function,Double way,Road,Autonomous
+14,T-315,Baix Camp,Tarragona,70.0,Mixed,No special function,One way,Road,Autonomous
+15,T-742,Alt Camp,Tarragona,100.0,Embankment,No special function,Double way,Road,Provincial
+16,GIV-5343,Selva,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+17,LV-5052,Val d'Aran,Lleida,100.0,Plane,No special function,Double way,Road,Provincial
+18,LV-3002,Solsones,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+19,L-902,Segria,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+20,CR12,Maresme,Barcelona,100.0,Mixed,No special function,Double way,Road,Municipal
+21,GIV-5523,Selva,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+22,LV-9022,Segria,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+23,LV-5222,Pallars Sobira,Lleida,100.0,Embankment,No special function,Double way,Road,Provincial
+24,TP-7402,Priorat,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+25,BV-5201,Osona,Barcelona,50.0,Plane,No special function,Double way,Road,Provincial
+26,B-521,Osona,Barcelona,60.0,Plane,No special function,Double way,Road,Others
+27,CR6,Anoia,Barcelona,30.0,Mixed,No special function,Double way,Road,Others
+28,TV-7042,Conca de Barbera,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+29,GIV-6101,Alt Emporda,Girona,Not specified,Not specified,No special function,Not specified,Road,Others
+30,T-712,Priorat,Tarragona,100.0,Mixed,No special function,Double way,Road,Autonomous
+31,C-103,Montsia,Tarragona,50.0,Embankment,No special function,Double way,Road,Provincial
+32,BV-5111,Maresme,Barcelona,100.0,Mixed,No special function,Double way,Road,Provincial
+33,TV-3032,Ribera d'Ebre,Tarragona,100.0,Disassembled,No special function,Double way,Road,Provincial
+34,BV-4406,Bergueda,Barcelona,100.0,Plane,No special function,Double way,Road,Municipal
+35,GIP-5239,Alt Emporda,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+36,L-314,Segarra,Lleida,Not specified,Not specified,No special function,Not specified,Road,Others
+37,BV-1411,Valles Occidental,Barcelona,100.0,Disassembled,No special function,Double way,Road,Not specified
+38,BV-4022,Bergueda,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+39,BV-2202,Anoia,Barcelona,100.0,Plane,No special function,Double way,Road,Provincial
+40,BV-5209,Osona,Barcelona,40.0,Disassembled,No special function,Double way,Road,Municipal
+41,LV-7022,Pla d'Urgell,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+42,GIP-5511,Selva,Girona,100.0,Mixed,No special function,Double way,Road,Municipal
+43,GIP-5129,Alt Emporda,Girona,100.0,Disassembled,No special function,Double way,Road,Provincial
+44,TV-7044,Alt Camp,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+45,CR21,Maresme,Barcelona,Not specified,Not specified,No special function,Double way,Road,Others
+46,BV-5227,Osona,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+47,TV-3321,Montsia,Tarragona,100.0,Plane,No special function,Double way,Crossing,Autonomous
+48,LV-3028,Urgell,Lleida,100.0,Plane,No special function,Double way,Road,Municipal
+49,GI-667,Baix Emporda,Girona,60.0,Plane,No special function,Double way,Road,Autonomous
+50,GI-603,Alt Emporda,Girona,100.0,Embankment,No special function,Double way,Road,Provincial
+51,BV-3012,Bages,Barcelona,100.0,Embankment,No special function,Double way,Road,Provincial
+52,GIP-6031,Alt Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+53,GIP-6831,Selva,Girona,Not specified,Plane,No special function,Double way,Road,Municipal
+54,TV-2441,Alt Camp,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+55,LV-2003,Segria,Lleida,100.0,Plane,No special function,Double way,Road,Municipal
+56,GIV-6301,Alt Emporda,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+57,TV-2034,Alt Camp,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+58,CR20,Girones,Girona,70.0,Embankment,No special function,Double way,Road,Provincial
+59,BV-1248,Valles Occidental,Barcelona,50.0,Plane,No special function,Double way,Road,Provincial
+60,BV-1249,Valles Occidental,Barcelona,100.0,Disassembled,No special function,Double way,Road,Provincial
+61,GIV-5441,Osona,Girona,100.0,Disassembled,No special function,Double way,Road,Autonomous
+62,BV-5306,Osona,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+63,LV-3333,Pla d'Urgell,Lleida,60.0,Mixed,No special function,Double way,Road,Provincial
+64,TV-2333,Conca de Barbera,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+65,T-202,Tarragones,Tarragona,40.0,Plane,No special function,Double way,Crossing,Provincial
+66,C-58C,Valles Occidental,Barcelona,80.0,Plane,No special function,Double way,Road,Autonomous
+67,BV-4021,Bergueda,Barcelona,50.0,Embankment,No special function,Double way,Road,Provincial
+68,TV-3142,Baix Camp,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+69,LV-3113,Segarra,Lleida,60.0,Plane,No special function,Double way,Road,Municipal
+70,GI-521,Ripolles,Girona,100.0,Mixed,No special function,Double way,Road,Autonomous
+71,TV-7002,Conca de Barbera,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+72,GIV-5136,Pla de l'Estany,Girona,100.0,Disassembled,No special function,Double way,Road,Provincial
+73,GIV-6542,Baix Emporda,Girona,100.0,Plane,No special function,Double way,Road,Autonomous
+74,B-250a,Baix Llobregat,Barcelona,Not specified,Not specified,No special function,Not specified,Crossing,Not specified
+75,BV-1439,Valles Oriental,Barcelona,100.0,Plane,No special function,One way,Crossing,Not specified
+76,TP-7403,Priorat,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+77,GI-504,Alt Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+78,GI-652,Baix Emporda,Girona,40.0,Plane,No special function,Double way,Road,Others
+79,GIV-6441,Baix Emporda,Girona,30.0,Plane,No special function,Double way,Crossing,Provincial
+80,BV-2128,Alt Penedes,Barcelona,100.0,Plane,No special function,Double way,Road,Autonomous
+81,GIV-5313,Girones,Girona,60.0,Embankment,No special function,Double way,Road,Provincial
+82,L-522,Pallars Jussa,Lleida,Not specified,Embankment,No special function,Double way,Road,Municipal
+83,TV-3401,Baix Ebre,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+84,CR1,Alt Camp,Tarragona,100.0,Mixed,No special function,One way,Road,Municipal
+85,T-318,Baix Camp,Tarragona,100.0,Disassembled,No special function,Double way,Road,Autonomous
+86,GIV-5132,Pla de l'Estany,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+87,T-233,Conca de Barbera,Tarragona,100.0,Embankment,No special function,Double way,Road,Autonomous
+88,T-350,Montsia,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+89,CR07,Bages,Barcelona,100.0,Disassembled,No special function,Double way,Road,Others
+90,C-241c,Anoia,Barcelona,100.0,Mixed,No special function,Double way,Road,Autonomous
+91,GIV-4033,Cerdanya,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+92,TV-7048,Baix Camp,Tarragona,50.0,Mixed,No special function,Double way,Road,Provincial
+93,C-1412,Anoia,Barcelona,100.0,Mixed,No special function,Double way,Road,Autonomous
+94,GIV-6591,Baix Emporda,Girona,60.0,Mixed,No special function,Double way,Road,Provincial
+95,TV-3403,Montsia,Tarragona,60.0,Plane,No special function,Double way,Road,Provincial
+96,BV-2212,Anoia,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+97,BV-2001,Baix Llobregat,Barcelona,Not specified,Not specified,No special function,One way,Crossing,Not specified
+98,LV-5133,Alt Urgell,Lleida,40.0,Mixed,No special function,Double way,Road,Provincial
+99,BV-4656,Bergueda,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+100,BV-1203,Valles Occidental,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+101,LV-9046,Noguera,Lleida,100.0,Mixed,No special function,Double way,Road,Municipal
+102,GIP-5244,Pla de l'Estany,Girona,Not specified,Not specified,No special function,Not specified,Road,Others
+103,GIP-5233,Garrotxa,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+104,BV-2155,Alt Penedes,Barcelona,100.0,Embankment,No special function,Double way,Road,Provincial
+105,BV-4235,Bages,Barcelona,100.0,Mixed,No special function,Double way,Road,Others
+106,BV-2004,Baix Llobregat,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Municipal
+107,GIV-6043,Alt Emporda,Girona,100.0,Plane,No special function,Double way,Road,Municipal
+108,CR14,Bergueda,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+109,CR36,Tarragones,Tarragona,60.0,Embankment,No special function,Double way,Road,Municipal
+110,BV-5226,Osona,Barcelona,100.0,Disassembled,No special function,Double way,Road,Provincial
+111,TV-2236,Tarragones,Tarragona,100.0,Plane,Crossing,Double way,Urban area,Provincial
+112,BV-2204,Anoia,Barcelona,100.0,Embankment,No special function,Double way,Road,Municipal
+113,GIV-4031,Cerdanya,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+114,GIV-5264,Ripolles,Girona,100.0,Mixed,No special function,Double way,Road,Autonomous
+115,N-141g,Bages,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+116,B-201z,Baix Llobregat,Barcelona,100.0,Plane,No special function,One way,Road,Provincial
+117,C-65z,Girones,Girona,100.0,Not specified,No special function,Not specified,Crossing,Not specified
+118,GIV-6213,Alt Emporda,Girona,100.0,Plane,No special function,Double way,Road,Municipal
+119,GI-604,Alt Emporda,Girona,40.0,Embankment,No special function,Double way,Road,Provincial
+120,LL-12,Segria,Lleida,50.0,Plane,No special function,One way,Road,Others
+121,GIV-4016,Ripolles,Girona,100.0,Disassembled,No special function,Double way,Road,Municipal
+122,GIV-6211,Alt Emporda,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+123,BV-4316,Osona,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+124,T-734,Priorat,Tarragona,Not specified,Plane,No special function,Double way,Road,Provincial
+125,GIV-6821,Girones,Girona,100.0,Embankment,No special function,Double way,Road,Provincial
+126,LV-2141,Segarra,Lleida,Not specified,Not specified,No special function,Double way,Road,Municipal
+127,LP-2335,Urgell,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+128,BV-1245,Moianès,Barcelona,40.0,Embankment,No special function,Double way,Road,Provincial
+129,GIP-5237,Alt Emporda,Girona,Not specified,Not specified,No special function,Not specified,Road,Others
+130,LV-4241a,Solsones,Lleida,Not specified,Mixed,No special function,Double way,Road,Provincial
+131,B-245,Valles Occidental,Barcelona,100.0,Not specified,No special function,Not specified,Road,Not specified
+132,LP-9132,Noguera,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+133,BV-5123,Selva,Barcelona,40.0,Plane,No special function,Double way,Road,Municipal
+134,TV-3145,Baix Camp,Tarragona,40.0,Plane,No special function,Double way,Road,Provincial
+135,GI-540,Girones,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+136,TV-3322,Montsia,Tarragona,100.0,Mixed,No special function,Double way,Road,Autonomous
+137,GIV-6232,Baix Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+138,LV-3121,Segarra,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+139,BV-1037,Anoia,Barcelona,100.0,Disassembled,No special function,One way,Road,Provincial
+140,LV-5224,Pallars Sobira,Lleida,100.0,Mixed,No special function,Double way,Road,Autonomous
+141,BV-5202,Osona,Barcelona,50.0,Plane,No special function,Double way,Road,Provincial
+142,GI-401,Ripolles,Girona,100.0,Plane,No special function,Double way,Road,Provincial
+143,GIV-5521,Selva,Girona,100.0,Embankment,No special function,Double way,Road,Autonomous
+144,GIV-6703,Girones,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+145,TV-7001,Conca de Barbera,Tarragona,100.0,Plane,No special function,One way,Road,Provincial
+146,GI-680a,Selva,Girona,100.0,Mixed,No special function,Double way,Road,Municipal
+147,LV-3027,Noguera,Lleida,100.0,Plane,No special function,Double way,Road,Municipal
+148,CR39,Alt Urgell,Lleida,30.0,Mixed,No special function,Double way,Road,Others
+149,BV-2134,Anoia,Barcelona,50.0,Mixed,No special function,Double way,Road,Provincial
+150,GIV-6228,Alt Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+151,B-451,Bages,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+152,GIV-6425,Baix Emporda,Girona,100.0,Embankment,No special function,Double way,Road,Provincial
+153,BV-1225,Bages,Barcelona,50.0,Embankment,No special function,Double way,Road,Provincial
+154,TV-7421,Alt Camp,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+155,TV-7041,Alt Camp,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+156,BV-2304,Alt Penedes,Barcelona,100.0,Disassembled,No special function,Double way,Road,Provincial
+157,T-723,Bergueda,Barcelona,80.0,Plane,No special function,Double way,Road,Provincial
+158,LV-2014,Garrigues,Lleida,100.0,Plane,No special function,Double way,Road,Autonomous
+159,BV-1275,Valles Occidental,Barcelona,20.0,Plane,No special function,Double way,Road,Municipal
+160,LV-9045,Noguera,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+161,T-343,Baix Camp,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+162,BV-5116,Valles Oriental,Barcelona,50.0,Plane,No special function,Double way,Road,Municipal
+163,GIV-5234,Garrotxa,Girona,100.0,Plane,No special function,Double way,Road,Autonomous
+164,BV-4655,Osona,Barcelona,40.0,Plane,No special function,One way,Road,Autonomous
+165,T-713,Priorat,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+166,GIV-5247,Pla de l'Estany,Girona,100.0,Plane,No special function,Double way,Road,Municipal
+167,L-304,Segarra,Lleida,100.0,Mixed,No special function,Double way,Road,Municipal
+168,BV-2425,Baix Llobregat,Barcelona,Not specified,Embankment,No special function,Double way,Road,Provincial
+169,CR11,Garraf,Barcelona,100.0,Plane,No special function,Double way,Road,Municipal
+170,TV-3406,Montsia,Tarragona,60.0,Plane,No special function,Double way,Road,Provincial
+171,GIV-6217,Alt Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Provincial
+172,GIP-5107,Alt Emporda,Girona,60.0,Disassembled,No special function,Double way,Road,Provincial
+173,GIV-5231,Garrotxa,Girona,100.0,Plane,No special function,Double way,Road,Municipal
+174,T-210,Tarragones,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+175,BV-1433,Valles Oriental,Barcelona,70.0,Disassembled,No special function,Double way,Road,Provincial
+176,TV-2231,Tarragones,Tarragona,100.0,Mixed,No special function,Double way,Road,Provincial
+177,C-147,Pallars Sobira,Lleida,100.0,Mixed,No special function,Double way,Road,Autonomous
+178,BV-5033,Maresme,Barcelona,Not specified,Not specified,No special function,Double way,Crossing,Not specified
+179,CR09,Baix Ebre,Tarragona,100.0,Embankment,No special function,Double way,Road,Municipal
+180,TV-7232,Terra Alta,Tarragona,100.0,Mixed,No special function,Double way,Road,Provincial
+181,L-232,Urgell,Lleida,Not specified,Not specified,No special function,Not specified,Road,Others
+182,N-1411,Cerdanya,Lleida,100.0,Embankment,No special function,Double way,Road,State
+183,T-341,Baix Ebre,Tarragona,40.0,Plane,No special function,Double way,Crossing,Not specified
+184,T-741,Ribera d'Ebre,Tarragona,80.0,Plane,No special function,Double way,Road,Autonomous
+185,L-912,Pallars Jussa,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+186,LV-9223,Segria,Lleida,Not specified,Not specified,No special function,Not specified,Road,Others
+187,GI-665,Baix Emporda,Girona,100.0,Plane,No special function,Double way,Crossing,Municipal
+188,LV-3024,Noguera,Lleida,Not specified,Not specified,No special function,Not specified,Road,Others
+189,N-260z,Garrotxa,Girona,90.0,Plane,No special function,Double way,Road,Municipal
+190,BV-5005,Barcelones,Barcelona,Not specified,Plane,No special function,Not specified,Crossing,Not specified
+191,GI-514,Girones,Girona,100.0,Embankment,No special function,Double way,Road,Autonomous
+192,GIV-5142,Pla de l'Estany,Girona,60.0,Mixed,No special function,Double way,Road,Provincial
+193,GIV-5224,Garrotxa,Girona,100.0,Mixed,No special function,Double way,Road,Municipal
+194,CR22,Montsia,Tarragona,40.0,Plane,No special function,Double way,Road,Others
+195,BV-4243,Bergueda,Barcelona,50.0,Mixed,No special function,Double way,Road,Provincial
+196,T-320,Baix Camp,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+197,C-532,Alt Penedes,Barcelona,90.0,Disassembled,No special function,Double way,Road,Autonomous
+198,GIV-5332,Girones,Girona,Not specified,Not specified,No special function,Not specified,Road,Others
+199,GIV-5248,Pla de l'Estany,Girona,Not specified,Not specified,No special function,Not specified,Road,Others
+200,GI-651,Baix Emporda,Girona,100.0,Disassembled,No special function,Double way,Road,Provincial
+201,TP-3211,Baix Camp,Tarragona,100.0,Mixed,No special function,Double way,Road,Municipal
+202,C-149b,Bergueda,Barcelona,Not specified,Not specified,No special function,Double way,Crossing,Not specified
+203,TV-3443,Montsia,Tarragona,100.0,Mixed,No special function,Double way,Road,Provincial
+204,LV-7011,Garrigues,Lleida,Not specified,Not specified,No special function,Not specified,Road,Others
+205,C-147B,Noguera,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+206,TV-7333,Terra Alta,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+207,BV-2152,Alt Penedes,Barcelona,Not specified,Not specified,No special function,Not specified,Road,Others
+208,L-503,Pallars Jussa,Lleida,100.0,Plane,No special function,Double way,Road,Provincial
+209,VM-4406,Bergueda,Barcelona,100.0,Mixed,No special function,Double way,Road,Municipal
+210,T-710,Priorat,Tarragona,Not specified,Not specified,No special function,Not specified,Road,Others
+211,TV-3313,Montsia,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+212,TP-7049,Baix Camp,Tarragona,100.0,Not specified,No special function,Not specified,Crossing,Not specified
+213,GI-653,Baix Emporda,Girona,100.0,Mixed,No special function,Double way,Road,Autonomous
+214,C-25D,Osona,Barcelona,100.0,Mixed,No special function,Double way,Road,Autonomous
+215,TV-2035,Alt Camp,Tarragona,100.0,Mixed,No special function,Double way,Road,Provincial
+216,TV-7221,Baix Camp,Tarragona,100.0,Not specified,No special function,Not specified,Crossing,Not specified
+217,TV-2004,Alt Camp,Tarragona,100.0,Plane,No special function,Double way,Road,Provincial
+218,BV-4135,Bergueda,Barcelona,100.0,Embankment,No special function,Double way,Road,Provincial
+219,LV-9124,Pallars Jussa,Lleida,100.0,Mixed,No special function,Double way,Road,Provincial
+220,BV-2422,Baix Llobregat,Barcelona,100.0,Disassembled,No special function,Double way,Road,Provincial
